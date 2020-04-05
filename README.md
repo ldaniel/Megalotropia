@@ -1,4 +1,4 @@
-<img src='images/megalotropia_logo_medium.png' width="350px" />
+<img src='images/megalotropia_logo_medium.png' width="450px" />
 
 # O que é o Megalotropia?
 
